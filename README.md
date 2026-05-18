@@ -42,7 +42,7 @@ retrieval_hub/
 ### 🛠️ Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/shronal/retrieval_hub.git  
+[git clone https://github.com/SubekshyaKarki47/Retrieval-lost-and-found-]
 cd retrieval_hub
 ```
 
@@ -87,10 +87,9 @@ Now visit:
 
 ## 👨‍💻 Author
 
-- 👤 Name: Shronal Shrestha  
-- 🏫 Institution: Khwopa Engineering College  
-- 🌐 Portfolio: [shronal.com.np](https://shronal.com.np)
-
+- 👤 Name: Subekshya Karki 
+- 🏫 Institution: Khwopa Engineering College
+  
 ---
 
 ## 📜 License
